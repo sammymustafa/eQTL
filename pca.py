@@ -1,6 +1,4 @@
 from setup import *
-
-### COMPELTE HERE ###
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from io import StringIO
